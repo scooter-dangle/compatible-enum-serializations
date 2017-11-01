@@ -1,0 +1,9 @@
+[package]
+name = "compatible-enums"
+version = "0.1.0"
+authors = ["Scott Steele <scott.steele@distilnetworks.com>"]
+
+[dependencies]
+serde = "*"
+serde_derive = "*"
+bincode = "*"
